@@ -1,0 +1,56 @@
+
+
+
+.panda-card{
+    border: 0;
+}
+
+.categories img{
+    width: 100px;
+
+}
+.panda-slide .carousel-item{
+    background-color: rgb(182, 71, 93);
+    border-radius: 1em;
+}
+.red-highlight{
+    color: rgb(110, 6, 76);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:  5%;
+    padding: 10px 20px;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(223, 7, 205),rgb(36, 4, 66));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(247, 247, 247);
+    font-weight: 700;
+}
+.box-shadow-item{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    background: #fff;
+    margin-bottom: 10px;
+  }
+  .navbar-brand img{
+    width: 200px;
+  }
+  
+  @media(max-width:468px){
+    .text-styleing{
+      padding: 0!important;
+      margin-left: 10px;
+    }
+  }
+  @media(max-width:768px){
+    .text-styleing{
+      padding: 0!important;
+      margin-left: 10px;
+    }
+  }
